@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Fade
+  - PlayerAttack
+  - EnergyPotion
+  - HalfHeart
+  - Heart
+  - Key
+  - WoodBox
+  - Sliver
+  - Gold
+  - Copper
+  - MapManager
+  - PlayerCollectUI
+  - SpecialItem
+  - CollectInfoText
+  - CollectInfoImage
+  - CollectInfoPanel
+  - CollectInfoName
+  - SpecialBoxManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Weapon
+  - Wall
+  - PlayerMap
+  - BackGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3368906319
+    locked: 0
+  - name: MidGround
+    uniqueID: 2126010079
+    locked: 0
+  - name: Weapon
+    uniqueID: 1402385765
+    locked: 0
+  - name: Player
+    uniqueID: 1026272897
+    locked: 0
+  - name: Top
+    uniqueID: 3456392005
+    locked: 0
